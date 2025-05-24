@@ -7,18 +7,16 @@ Ti aiuterà a creare una tesi ordinata, professionale e a prova di relatore!
 
 ## 📚 **Indice dei contenuti**
 
-1. [Perché scegliere LaTeX](#1-perché-latex)
-   - [Differenza tra LaTeX e Word](#11-differenza-fra-latex-e-word)
-2. [Overleaf: l’editor online](#2-overleaf-l’editor-online)
-   - [Interfaccia Overleaf](#21-interfaccia-overleaf)
-3. [Struttura base del progetto](#3-struttura-base-del-progetto)
-4. [Il tuo primo file `.tex`](#4-il-tuo-primo-tex-minimale)
-5. [Capitoli, sezioni e sottosezioni](#5-capitoli-sezioni-e-sottosezioni)
-6. [Inserire figure](#6-inserire-figure-🎨)
-7. [Tabelle](#7-tabelle-📊)
-8. [Liste puntate e numerate](#8-liste-puntate-e-numerate-📝)
-9. [Bibliografia e citazioni](#9-bibliografia-e-citazioni-📚)
-10. [Consigli pratici](#10-tips--trucchetti-🔍)
+1. [Perché LaTeX?](#1-perché-latex)
+    - [Differenza fra LaTeX e Word](#11-differenza-fra-latex-e-word)
+2. [Overleaf: l’editor online](#2-overleaf-leditor-online)
+    - [Interfaccia Overleaf](#21-interfaccia-overleaf)
+3. [Il tuo primo file `.tex` minimale](#3-il-tuo-primo-file-tex-minimale)
+4. [Capitoli, sezioni e sottosezioni](#4-capitoli-sezioni-e-sottosezioni)
+5. [Inserire figure](#5-inserire-figure-)
+6. [Liste puntate e numerate](#6-liste-puntate-e-numerate-)
+7. [Bibliografia e citazioni](#7-bibliografia-e-citazioni-)
+8. [Tips & Trucchetti](#8-tips--trucchetti-)
 
 ---
 
