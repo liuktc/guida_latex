@@ -36,6 +36,7 @@ Overleaf ti evita l’installazione di software:
    * **images/**: la cartella per le tue figure
 
 > Ogni volta che salvi, Overleaf ricompila e ti mostra l’anteprima in PDF!
+![interfaccia overleaf](overleaf.png)
 
 ## 3. Il tuo primo `.tex` minimale
 
